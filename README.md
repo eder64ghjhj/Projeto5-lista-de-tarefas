@@ -1,1 +1,2 @@
-# Projeto5-lista-de-tarefas
+# Projeto_05_Lista_de_Tarefas
+Uma lista de tarefas
